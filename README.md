@@ -41,4 +41,5 @@ $# Usage
 This dashboard is designed to support stakeholders in assessing sales performance and making data-driven decisions. It offers a comprehensive view of historical trends, potential growth areas, and regional sales insights to optimize business strategies.
 used excel , power query
 
+https://github.com/sherif547/Excel-data-analysis-dashboard/issues/1#issue-2592082964
 
