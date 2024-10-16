@@ -8,7 +8,7 @@ Revenue: Illustrates the total revenue generated, highlighting growth or decline
 Profit: Displays the total profit earned and the percentage change.
 Profit Margin: Provides the profit margin as a percentage of revenue, reflecting profitability.
 Transactions: Represents the total number of sales transactions, with a trend comparison.
-Sales Analysis
+## Sales Analysis
 Revenue Contribution by Year:
 
 Highlights the contribution of specific years to total revenue.
@@ -25,11 +25,11 @@ Quarterly Profit Breakdown:
 
 Provides a breakdown of profit by quarter, showing trends across the fiscal year.
 Can guide resource allocation and strategic planning for each quarter.
-Weekly Trends
+## Weekly Trends
 Profit by Day of the Week:
 Highlights which days contribute the most to profit.
 Useful for identifying peak sales days and optimizing operational focus.
-Country Breakdown
+## Country Breakdown
 Includes data from various countries, providing a geographical perspective on sales performance. This helps in tailoring strategies for different markets and understanding regional demand variations.
 
 ## Insights
@@ -37,6 +37,8 @@ Peak Sales Years: Identifies years with the highest revenue, helping to pinpoint
 Weekday Dominance: Weekdays generally contribute a larger share of profit, suggesting higher customer activity during the work week.
 Quarterly Profit Variability: Shows which quarters perform best, highlighting potential seasonal patterns or opportunities for targeted marketing.
 High Contribution Days: Certain days consistently generate more profit, which can inform decisions on promotions, staffing, and resource allocation.
-Usage
+$# Usage
 This dashboard is designed to support stakeholders in assessing sales performance and making data-driven decisions. It offers a comprehensive view of historical trends, potential growth areas, and regional sales insights to optimize business strategies.
+used excel , power query
+
 
