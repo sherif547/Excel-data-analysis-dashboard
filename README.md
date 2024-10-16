@@ -40,8 +40,5 @@ High Contribution Days: Certain days consistently generate more profit, which ca
 $# Usage
 This dashboard is designed to support stakeholders in assessing sales performance and making data-driven decisions. It offers a comprehensive view of historical trends, potential growth areas, and regional sales insights to optimize business strategies.
 used excel , power query
+https://github.com/user-attachments/assets/f41858a8-7f7e-41de-b2d9-db3feea3fd1d
 
-[https://github.com/sherif547/Excel-data-analysis-dashboard/issues/1#issue-2592082964
-](https://github.com/user-attachments/assets/f41858a8-7f7e-41de-b2d9-db3feea3fd1d
-
-)
